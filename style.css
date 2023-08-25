@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(245, 224, 240);
+}
+h1 {
+    color: rgb(224, 152, 164);
+    text-align: center;
+    text-decoration: underline;
+}
+h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+footer {
+    font-size: 13px;
+    text-align: center;
+}
+.imagenes 
+{
+    text-align: center;
+    background-color:  rgb(224, 152, 164);
+    margin: 30px;
+}
+hr {
+    background-color: rgb(224, 152, 164);
+    color: rgb(224, 152, 164);
+    border: 1.5px solid;
+}
+.blanco {
+    color: rgb(196, 183, 183);
+}
+.rosa {
+    color: rgb(224, 152, 164);
+}
+.rojo {
+    color: red;
+}
+.naranja {
+    color: rgb(206, 88, 9);
+}
+.amarillo {
+    color: rgb(212, 163, 0);
+}
+.azul {
+    color: blue;
+}
+.violeta {
+    color: purple;
+}
+form {
+    text-align: center;
+}
